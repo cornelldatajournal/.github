@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 Welcome to CDJ!
 
 ## About CDJ
 Founded in Fall 2020, **Cornell Data Journal** is an online investigative journalism publication featuring data visualization, data communication, and interdisciplinary research pieces.
