@@ -12,4 +12,4 @@ We're a group of Cornell students seeking to foster a data journalism community 
 Data journalism is an emerging subfield of journalism, and often combines data, visual, and narrative reporting into digital stories. Examples include isometric illustrations, statistical explorations, and interactive essays. Think Propublica Data, New York Times Interactive, or The Pudding.
 
 ## What is this page?
-This is a GitHub organization that houses some of our past projects that we've completed over the last few semesters. Scroll through the repositories to get an idea of the behind-the-scenes of our projects.
+This is a GitHub organization that houses copies of some of our past projects that we've completed over the last few semesters. Scroll through the repositories to get an idea of the behind-the-scenes of our projects.
